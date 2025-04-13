@@ -4,3 +4,13 @@
     box-sizing: border-box;
 }
 
+.navegacao{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 80px;
+    margin-right: 120px;
+    margin-top: 20px;
+    padding: 10px;
+}
